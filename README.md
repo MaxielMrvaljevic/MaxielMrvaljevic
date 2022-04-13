@@ -1,3 +1,5 @@
+![LinkedIn Header 2 (2)](https://user-images.githubusercontent.com/48143100/163078413-a0d7dd90-0132-4994-b28f-2bcb8269bcff.gif)
+
 ### Hi there 👋
 
 I'm Maxiel. A full stack software engineer based in New York City.
