@@ -27,13 +27,27 @@ I'm Maxiel. A full stack software engineer based in New York City.
 **Mesh: Commmunity Safety Network**
 
 <a href="https://vimeo.com/678746712">Video Walk-through</a>
-<div style="display: flex;">
+<br>
+<a href="https://github.com/Whole-New-WWW/capstone-mesh"> App Repo</a>
+<div style="display: flex">
 <img src="https://github.com/Whole-New-WWW/capstone-mesh/blob/main/assets/readme/login.gif" width="250">
 <img src="https://github.com/Whole-New-WWW/capstone-mesh/blob/main/assets/readme/map.gif" width="250">
 <img src="https://github.com/Whole-New-WWW/capstone-mesh/blob/main/assets/readme/safetynet.gif" width="250">
 </div>
+<br>
+
 
 **Hearth: Curated Furniture Collections**
+
+<a href="http://grace-shopper-hearth.herokuapp.com/home"> Deployed Site</a>
+<br>
+<a href="https://github.com/04-gs-2109-no-signal-i-wep/hearth"> Site Repo</a>
+<div style="display: flex, flex-wrap: wrap">
+<img src="https://user-images.githubusercontent.com/48143100/163251144-35cbe5f4-0413-4520-8ea8-f7a019e084ea.gif" width="500">
+<img src="https://user-images.githubusercontent.com/48143100/163251159-e458e87a-66a3-4b4b-a54c-8ede46febb6e.gif" width="500">
+<img src="https://user-images.githubusercontent.com/48143100/163254380-76c074a5-b016-4de5-83eb-5acaa60beafe.gif" width="500">
+<img src="https://user-images.githubusercontent.com/48143100/163254570-5f3515e7-3dc3-4806-ba71-169d6c6573eb.gif" width="500">
+</div>
 
 <!--
 **MaxielMrvaljevic/MaxielMrvaljevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
