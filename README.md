@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Maxiel. A full stack software engineer based in New York City.
+I'm Maxiel. I'm a full stack software engineer based in New York City.
 
 ---
 ### TECH STACK
@@ -36,7 +36,6 @@ I'm Maxiel. A full stack software engineer based in New York City.
 </div>
 <br>
 
-
 ### Hearth: Curated Furniture Collections
 
 <a href="http://grace-shopper-hearth.herokuapp.com/home"> Deployed Site</a>
@@ -45,7 +44,7 @@ I'm Maxiel. A full stack software engineer based in New York City.
 <div style="display: flex, flex-wrap: wrap">
  <p>Home Page/All Products Admin View</p>
 <img src="https://user-images.githubusercontent.com/48143100/163251144-35cbe5f4-0413-4520-8ea8-f7a019e084ea.gif" width="500">
- <p>Pagination</p>
+ <p>Carousel & Pagination</p>
 <img src="https://user-images.githubusercontent.com/48143100/163251159-e458e87a-66a3-4b4b-a54c-8ede46febb6e.gif" width="500">
  <p>Single Product Admin View</p>
 <img src="https://user-images.githubusercontent.com/48143100/163254380-76c074a5-b016-4de5-83eb-5acaa60beafe.gif" width="500">
