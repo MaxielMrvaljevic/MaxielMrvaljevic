@@ -1,11 +1,10 @@
 ![LinkedIn Header 2 (2)](https://user-images.githubusercontent.com/48143100/163078413-a0d7dd90-0132-4994-b28f-2bcb8269bcff.gif)
 
-### Hi there 👋
+## Hi there 👋
 
-I'm Maxiel. I'm a full stack software engineer based in New York City.
+I'm Maxiel. A full stack software engineer based in New York City.
 
----
-### TECH STACK
+## Tech Stack
 
 <code><img class="css" height="50" src="https://user-images.githubusercontent.com/48143100/163075479-5b3858a9-c7dc-421e-8fa8-cd15b59232d1.png"></code>
 <code><img class="js" height="40" src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png"></code>
@@ -20,9 +19,7 @@ I'm Maxiel. I'm a full stack software engineer based in New York City.
 <code><img class="node" height="50" src="https://user-images.githubusercontent.com/48143100/163075667-eae0bf09-1ccf-414f-aebd-d8cfc5714324.png"></code>
 <code><img class="firebase" height="40" src="https://user-images.githubusercontent.com/48143100/163075672-8c1ec58f-70c6-4bc0-81e6-f5f5c79cc3e5.png"></code>
 
- ---
-
-### TOP REPOS
+## Top Repos
 
 ### Mesh: Commmunity Safety Network
 
@@ -34,7 +31,6 @@ I'm Maxiel. I'm a full stack software engineer based in New York City.
 <img src="https://github.com/Whole-New-WWW/capstone-mesh/blob/main/assets/readme/map.gif" width="250">
 <img src="https://github.com/Whole-New-WWW/capstone-mesh/blob/main/assets/readme/safetynet.gif" width="250">
 </div>
-<br>
 
 ### Hearth: Curated Furniture Collections
 
@@ -42,13 +38,17 @@ I'm Maxiel. I'm a full stack software engineer based in New York City.
 <br>
 <a href="https://github.com/04-gs-2109-no-signal-i-wep/hearth"> Site Repo</a>
 <div style="display: flex, flex-wrap: wrap">
- <p>Home Page/All Products Admin View</p>
+
+#### Home Page/All Products Admin View
 <img src="https://user-images.githubusercontent.com/48143100/163251144-35cbe5f4-0413-4520-8ea8-f7a019e084ea.gif" width="500">
- <p>Carousel & Pagination</p>
+
+#### Carousel & Pagination 
 <img src="https://user-images.githubusercontent.com/48143100/163251159-e458e87a-66a3-4b4b-a54c-8ede46febb6e.gif" width="500">
- <p>Single Product Admin View</p>
+ 
+#### Single Product Admin View
 <img src="https://user-images.githubusercontent.com/48143100/163254380-76c074a5-b016-4de5-83eb-5acaa60beafe.gif" width="500">
- <p>Checkout</p>
+ 
+#### Checkout
 <img src="https://user-images.githubusercontent.com/48143100/163254570-5f3515e7-3dc3-4806-ba71-169d6c6573eb.gif" width="500">
 </div>
 
