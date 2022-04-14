@@ -49,7 +49,7 @@ I'm Maxiel. A full stack software engineer based in New York City.
 <img src="https://user-images.githubusercontent.com/48143100/163251159-e458e87a-66a3-4b4b-a54c-8ede46febb6e.gif" width="500">
  <p>Single Product Admin View</p>
 <img src="https://user-images.githubusercontent.com/48143100/163254380-76c074a5-b016-4de5-83eb-5acaa60beafe.gif" width="500">
- <p>Checkout View</p>
+ <p>Checkout</p>
 <img src="https://user-images.githubusercontent.com/48143100/163254570-5f3515e7-3dc3-4806-ba71-169d6c6573eb.gif" width="500">
 </div>
 
