@@ -5,23 +5,25 @@
 
 I'm Maxiel. A full stack software engineer based in New York City.
 
----
 ## Tech Stack
 
-<code><img class="css" height="50" src="https://user-images.githubusercontent.com/48143100/163075479-5b3858a9-c7dc-421e-8fa8-cd15b59232d1.png"></code>
-<code><img class="js" height="40" src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png"></code>
-<code><img class="react" height="50" src="https://user-images.githubusercontent.com/48143100/163075527-4b5533fc-b297-4be4-8f88-f5881274eef5.png"></code>
-<code><img class="redux" height="40" src="https://user-images.githubusercontent.com/48143100/163075532-ed04f7f5-a945-4655-aa2b-de82f9b4953a.png"></code>
-<code><img class="react-native" height="35" src="https://user-images.githubusercontent.com/48143100/163075833-3127038b-2dc1-48d7-a3fd-f3e4cf294af0.png"></code>
-<code><img class="material-ui" height="40" src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png"></code>
+<div>
+ <code><img class="css" height="50" src="https://user-images.githubusercontent.com/48143100/163075479-5b3858a9-c7dc-421e-8fa8-cd15b59232d1.png"></code>
+ <code><img class="js" height="40" src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png"></code>
+ <code><img class="react" height="50" src="https://user-images.githubusercontent.com/48143100/163075527-4b5533fc-b297-4be4-8f88-f5881274eef5.png"></code>
+ <code><img class="redux" height="40" src="https://user-images.githubusercontent.com/48143100/163075532-ed04f7f5-a945-4655-aa2b-de82f9b4953a.png"></code>
+ <code><img class="react-native" height="35" src="https://user-images.githubusercontent.com/48143100/163075833-3127038b-2dc1-48d7-a3fd-f3e4cf294af0.png"></code>
+ <code><img class="material-ui" height="40" src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png"></code>
+</div>
 <br>
-<code><img class="sequelize" height="50" src="https://user-images.githubusercontent.com/48143100/163075611-a24477b9-2c48-462b-9dd5-64ef73f356e3.png"></code>
-<code><img class="postgres" height="50" src="https://user-images.githubusercontent.com/48143100/163075620-b57ddf62-e99b-482c-ab71-c23deb489734.png"></code>
-<code><img class="express" height="40" src="https://user-images.githubusercontent.com/48143100/163075652-c0cda897-d23a-4ba7-a1fe-74ae2f71dec5.png"></code>
-<code><img class="node" height="50" src="https://user-images.githubusercontent.com/48143100/163075667-eae0bf09-1ccf-414f-aebd-d8cfc5714324.png"></code>
-<code><img class="firebase" height="40" src="https://user-images.githubusercontent.com/48143100/163075672-8c1ec58f-70c6-4bc0-81e6-f5f5c79cc3e5.png"></code>
+<div>
+ <code><img class="sequelize" height="50" src="https://user-images.githubusercontent.com/48143100/163075611-a24477b9-2c48-462b-9dd5-64ef73f356e3.png"></code>
+ <code><img class="postgres" height="50" src="https://user-images.githubusercontent.com/48143100/163075620-b57ddf62-e99b-482c-ab71-c23deb489734.png"></code>
+ <code><img class="express" height="40" src="https://user-images.githubusercontent.com/48143100/163075652-c0cda897-d23a-4ba7-a1fe-74ae2f71dec5.png"></code>
+ <code><img class="node" height="50" src="https://user-images.githubusercontent.com/48143100/163075667-eae0bf09-1ccf-414f-aebd-d8cfc5714324.png"></code>
+ <code><img class="firebase" height="40" src="https://user-images.githubusercontent.com/48143100/163075672-8c1ec58f-70c6-4bc0-81e6-f5f5c79cc3e5.png"></code>
+</div>
 
----
 ## Top Repos
 
 ### Mesh: Commmunity Safety Network
