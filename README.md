@@ -24,7 +24,7 @@ I'm Maxiel. A full stack software engineer based in New York City.
 
 ### TOP REPOS
 
-### Mesh: Commmunity Safety Network**
+### Mesh: Commmunity Safety Network
 
 <a href="https://vimeo.com/678746712">Video Walk-through</a>
 <br>
@@ -37,7 +37,7 @@ I'm Maxiel. A full stack software engineer based in New York City.
 <br>
 
 
-### Hearth: Curated Furniture Collections**
+### Hearth: Curated Furniture Collections
 
 <a href="http://grace-shopper-hearth.herokuapp.com/home"> Deployed Site</a>
 <br>
