@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-I'm Maxiel. A full stack software engineer based in New York City.
+I'm Maxiel. I'm a full stack software engineer based in New York City.
 
 ## Tech Stack
 
